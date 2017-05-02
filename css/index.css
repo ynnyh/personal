@@ -74,7 +74,7 @@
       width: 195px;
       height: 195px;
       border-radius: 50%;
-      background-image: url(../images/avatar.png);
+      background-image: url(../images/img1.jpg);
       background-size: cover; }
   .index .avatar.show {
     transform: scale(1); }
@@ -144,7 +144,7 @@
       width: 150px;
       height: 150px;
       border-radius: 50%;
-      background: url("../images/avatar.png") center center;
+      background: url("../images/img1.jpg") center center;
       background-size: cover;
       overflow: hidden;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); }
