@@ -37,6 +37,10 @@
   transform: translate3d(0, 0, 0);
   transition: transform .8s ease; }
 
+.wp{
+  overflow: hidden;
+}
+
 /*首页 S */
 .index {
   background: url(../images/header.jpg) center center no-repeat;
