@@ -5,7 +5,7 @@ $(document).ready(function() {
 	var w = $(window).width();
 	var h = $(window).height();
 	page.css({"height": h,"width":w});
-    $('.wp-inner').fullpage();
+    // $('.wp-inner').fullpage();
     $(window).resize(function(){
 		w = $(window).width();
 		h = $(window).height();
